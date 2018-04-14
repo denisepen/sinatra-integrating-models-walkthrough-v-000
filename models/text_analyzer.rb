@@ -39,6 +39,5 @@ class TextAnalyzer
     end
 
     biggest
-    # @number = biggest[key]
   end
 end
